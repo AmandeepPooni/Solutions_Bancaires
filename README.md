@@ -1,7 +1,8 @@
 # SOLUTIONS-BANCAIRES
 
 A JAVA based desktop application using the concept of RDBMS alongwith.
-ABOUT THE PROJECT
+
+# ABOUT THE PROJECT
 
 It is a JAVA based application for banking services. Personal banking services and Bank level services have been integrated into a single application.
 
